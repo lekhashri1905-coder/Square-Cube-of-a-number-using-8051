@@ -35,7 +35,8 @@ END
 ```
 
 ## OUTPUT
-<img width="1600" height="856" alt="WhatsApp Image 2026-10-23 at 8 14 12 AM" src="https://github.com/user-attachments/assets/8eee2f31-4efb-41af-b893-5d90341832a0" />
+<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/48f1b2e6-af33-4df0-a7bb-4a4b8b4cce4c" />
+
 
 
 ## RESULT
@@ -82,7 +83,8 @@ END
 
 
 ## OUTPUT
-<img width="1600" height="850" alt="WhatsApp Image 2026-10-23 at 8 14 31 AM" src="https://github.com/user-attachments/assets/00bcc66c-dd36-4578-bc5b-46435cff9150" />
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/9072d7a1-96de-41f0-9966-ef17a1086432" />
+
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
